@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherApi", "WeatherApi\WeatherApi.csproj", "{5438BA68-3BC3-4A33-AE91-6A597A49C23A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleHook", "SampleHook\SampleHook.csproj", "{A756028C-D9BD-4602-87E4-1F42446B226D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HookProxy", "HookProxy\HookProxy.csproj", "{2F60A997-57D2-47BC-BAA0-E6EC4115874D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5438BA68-3BC3-4A33-AE91-6A597A49C23A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5438BA68-3BC3-4A33-AE91-6A597A49C23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5438BA68-3BC3-4A33-AE91-6A597A49C23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5438BA68-3BC3-4A33-AE91-6A597A49C23A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A756028C-D9BD-4602-87E4-1F42446B226D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A756028C-D9BD-4602-87E4-1F42446B226D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A756028C-D9BD-4602-87E4-1F42446B226D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A756028C-D9BD-4602-87E4-1F42446B226D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F60A997-57D2-47BC-BAA0-E6EC4115874D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F60A997-57D2-47BC-BAA0-E6EC4115874D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F60A997-57D2-47BC-BAA0-E6EC4115874D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F60A997-57D2-47BC-BAA0-E6EC4115874D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6619515-E8DB-4428-BD83-4E1D3A7444F7}
+	EndGlobalSection
+EndGlobal
