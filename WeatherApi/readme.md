@@ -1,8 +1,7 @@
-﻿# POC on Dotnet hooks 
+﻿## POC on Dotnet hooks 
 
-## Setting enviroment variable for Startup hooks at global level
-
-## $env:DOTNET_STARTUP_HOOKS="D:\DOP\Carmel\pub\\SampleHook.dll;D:\DOP\Carmel\pub\\SampleHook.dll;"
+> ### Setting enviroment variable for Startup hooks at global level
+>  $env:DOTNET_STARTUP_HOOKS="D:\DOP\Carmel\pub\\SampleHook.dll;D:\DOP\Carmel\pub\\SampleHook.dll;"
 
 
 ### Set the Dotnet startup hook at application profiler level in lauchSettings.json
