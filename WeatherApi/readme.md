@@ -17,5 +17,4 @@
         "DOTNET_STARTUP_HOOKS": "D:\\DOP\\Carmel\\POC\\DotnetHooks\\SampleHook\\bin\\Debug\\net6.0\\publish\\SampleHook.dll"
       }
     },
-    }
 ```
