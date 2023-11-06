@@ -6,7 +6,7 @@
 
 
 ### Set the Dotnet startup hook at application profiler level in lauchSettings.json
-
+```json
  "WeatherApi": {
       "commandName": "Project",
       "dotnetRunMessages": true,
@@ -19,3 +19,4 @@
       }
     },
     }
+```
